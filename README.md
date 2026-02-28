@@ -113,7 +113,7 @@ The dashboard provides the following analytical insights:
 
 ## 7. Dashboard Image
 
-![Dashboard](Dashboard_image.jpeg)
+![Dashboard](Dashboard/Dashboard_image.jpeg)
 
 ---
 
