@@ -15,15 +15,15 @@ The primary objective of this project is to transform raw movie data into action
 
 Through this analysis, the project aims to:
 
-Identify the most popular and profitable movie genres
+- Identify the most popular and profitable movie genres
 
-Analyze rating trends across different years
+- Analyze rating trends across different years
 
-Examine the relationship between ratings and revenue
+- Examine the relationship between ratings and revenue
 
-Determine top-performing movies and directors
+- Determine top-performing movies and directors
 
-Understand overall industry growth patterns
+- Understand overall industry growth patterns
 
 The final dashboard presents key metrics and visual insights in a clear and interactive format, enabling better understanding of movie industry performance and audience behavior.
 ---
