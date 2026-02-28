@@ -110,7 +110,6 @@ The dashboard provides the following analytical insights:
 
 ---
 
-## 7. Dashboard Image
 
 ## 7. Dashboard Image
 
