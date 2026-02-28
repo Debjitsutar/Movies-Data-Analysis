@@ -112,7 +112,9 @@ The dashboard provides the following analytical insights:
 
 ## 7. Dashboard Image
 
-![Dashboard]([Dashboard/dashboard_image.png](https://github.com/Debjitsutar/Movies-Data-Analysis/blob/main/Dashboard_image.jpeg))
+## 7. Dashboard Image
+
+![Dashboard](Dashboard_image.jpeg)
 
 ---
 
