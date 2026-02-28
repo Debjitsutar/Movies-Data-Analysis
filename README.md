@@ -7,7 +7,7 @@ Movies Data Analysis Using MS Excel
 
 ---
 
-##2. Project Overview
+## 2. Project Overview
 
 This project focuses on analyzing a Movies dataset to uncover meaningful insights about movie performance, audience preferences, and industry trends. The dataset includes information such as movie titles, genres, directors, release years, ratings, revenue, runtime, and audience votes.
 
