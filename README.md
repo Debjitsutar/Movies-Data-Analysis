@@ -38,7 +38,7 @@ The final dashboard presents key metrics and visual insights in a clear and inte
 
 - **Pivot Tables and Calculations Folder**
   - Movies_pivot_analysis1.xlsx (Contains pivot tables and calculated metrics)
-  - Movies_pivot_analysis1.xlsx (Contains pivot tables and calculated metrics)
+  - Movies_pivot_analysis2.xlsx (Contains pivot tables and calculated metrics)
 
 - **Dashboard Folder**
   - Dashboard_image.jpg (Dashboard screenshot)
